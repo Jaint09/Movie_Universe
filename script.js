@@ -1,6 +1,6 @@
 class MovieMania {
     constructor(){
-        this.API_KEY = "a07ae21f7ba5ac5f328f179336ba15cc";
+        this.API_KEY = "your_api";
         this.BASE_URL = "https://api.themoviedb.org/3";
         this.IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500";
         this.FALLBACK_IMAGE = 'fallback.png';
